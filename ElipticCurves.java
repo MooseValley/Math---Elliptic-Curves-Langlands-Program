@@ -1,7 +1,7 @@
 /*
 Keywords: Elliptic Curves, Counting Problem, Number Theory, Harmonic Analysis, Modular Forms, Galois groups,
 
-My code to explore / cross check the cauculations and results in this Numberphile video:
+My code to explore / cross check the calculations and results in this Numberphile video:
 * The Langlands Program - Numberphile, Sep 28, 2023, https://www.youtube.com/watch?v=4dyytPboqvE&t=834s
 
 For more information, see README.MD
